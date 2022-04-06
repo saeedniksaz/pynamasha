@@ -1,4 +1,4 @@
-from scraper import Scraper
+from pynamasha.scraper import Scraper
 import requests
 
 

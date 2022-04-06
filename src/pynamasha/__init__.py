@@ -1,1 +1,1 @@
-from main import Download
+from pynamasha.main import Download

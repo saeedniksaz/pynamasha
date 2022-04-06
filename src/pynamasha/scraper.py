@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from exceptions import QualityError
+from pynamasha.exceptions import QualityError
 
 qualities = {
     '144': 0,
